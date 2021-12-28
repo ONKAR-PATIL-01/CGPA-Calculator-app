@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CGPA CALCULATOR</string>
+    <string name="cgpa_calculator">CGPA CALCULATOR</string>
+    <string name="fst">USING MARKS</string>
+    <string name="snd">USING GRADE</string>
+    <string name="trd">PERCENTAGE TO CGPA AND CGPA TO PERCENTAGE</string>
+    <string name="NAME">PATIL ONKAR PRAVIN</string>
+
+    <string-array name="planets_array">
+        <item>A+</item>
+        <item>A</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E1</item>
+        <item>E2</item>
+    </string-array>
+</resources>

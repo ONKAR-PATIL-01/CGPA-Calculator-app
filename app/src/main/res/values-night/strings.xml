@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NAME">PATIL ONKAR PRAVIN</string>
+    <string name="app_name">CGPA CALCULATOR</string>
+    <string name="cgpa_calculator">CGPA CALCULATOR</string>
+    <string name="fst">USING MARKS</string>
+    <string name="snd">USING GRADE</string>
+
+</resources>
